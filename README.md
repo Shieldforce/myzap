@@ -86,6 +86,10 @@ cp .env_exemplo .env
 
 > Dentro do arquivo .env:
 > instruções sobre algumas opções e configurações
+### Atualize o wppconnect no Servidor
+```bash
+npm update @wppconnect-team/wppconnect
+```
 
 ### Iniciar o Servidor
 
